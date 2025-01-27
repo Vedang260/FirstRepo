@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Adding the comments
 int trap(vector<int> &height)
 {
     int i = 0, left_max = height[0], sum = 0;
